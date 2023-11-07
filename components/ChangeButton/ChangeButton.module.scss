@@ -1,0 +1,21 @@
+.changeBox {
+  display: flex;
+  width: 100%;
+  padding: 20px 309px;
+  gap: 26px;
+}
+
+.changeBtn {
+  padding: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+
+  color: #fff;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: calc(15 / 18);
+  text-transform: capitalize;
+}
